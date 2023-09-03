@@ -33,10 +33,18 @@
 ### Step-19:Deploying as a Pod
 
 ## Deploy Artifacts on a Tomcat Server
-![Deploy Artifacts on a Tomcat Server](https://github.com/vashanth-sri/CICD_with_Git-Jenkins-Ansible-Kubernetes/assets/121790761/f0aab0be-c0c1-422e-b79e-12c413030039)
+![final webpage](https://github.com/vashanth-sri/CICD_with_Git-Jenkins-Ansible-Kubernetes/assets/121790761/f02fd1e5-7d5b-4682-93fb-64a4d06b18a5)
 ## Deploy on a Container
-![Deploy on a container](https://github.com/vashanth-sri/CICD_with_Git-Jenkins-Ansible-Kubernetes/assets/121790761/5caafc35-0754-48f1-aca4-59ec268c4a0b)
-## Using Ansible to Create Containers
-![Using Ansible to Create Containers](https://github.com/vashanth-sri/CICD_with_Git-Jenkins-Ansible-Kubernetes/assets/121790761/2b220517-006e-4c31-8477-52e9fd21231a)
+![docker latest push](https://github.com/vashanth-sri/CICD_with_Git-Jenkins-Ansible-Kubernetes/assets/121790761/dd3aecfd-ae6c-47e9-8aaf-b1829fe8fd47)
+## Using AWS to Create Instances EKS
+![instances created](https://github.com/vashanth-sri/CICD_with_Git-Jenkins-Ansible-Kubernetes/assets/121790761/c80e98d6-571c-413a-be2f-40368e7431f2)
 ## Deploy Artifacts on Kubernetes
-![Deploying on Kubernetes](https://github.com/vashanth-sri/CICD_with_Git-Jenkins-Ansible-Kubernetes/assets/121790761/cf012d37-e40b-4354-8d75-b6f26a09d499)
+![pod uptime](https://github.com/vashanth-sri/CICD_with_Git-Jenkins-Ansible-Kubernetes/assets/121790761/b11c029c-d312-4f91-a79f-7c59794743df)
+### CI Job
+![ci job](https://github.com/vashanth-sri/CICD_with_Git-Jenkins-Ansible-Kubernetes/assets/121790761/1a9f3d03-0ea1-420a-b792-42d4b5c2e731)
+### CD Job
+![cd job](https://github.com/vashanth-sri/CICD_with_Git-Jenkins-Ansible-Kubernetes/assets/121790761/cb653025-c7fe-4b63-83d5-b1688cb09cd8)
+
+
+
+
