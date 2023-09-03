@@ -34,7 +34,7 @@
 
 ## Deploy Artifacts on a Tomcat Server
 ![final webpage](https://github.com/vashanth-sri/CICD_with_Git-Jenkins-Ansible-Kubernetes/assets/121790761/b9318435-2500-4ecd-a585-5db4f80843c7)
-## Deploy on a Container
+## Deploy on a Container in Dockerhub
 ![docker latest push](https://github.com/vashanth-sri/CICD_with_Git-Jenkins-Ansible-Kubernetes/assets/121790761/dd3aecfd-ae6c-47e9-8aaf-b1829fe8fd47)
 ## Using AWS to Create Instances EKS
 ![instances created](https://github.com/vashanth-sri/CICD_with_Git-Jenkins-Ansible-Kubernetes/assets/121790761/c80e98d6-571c-413a-be2f-40368e7431f2)
