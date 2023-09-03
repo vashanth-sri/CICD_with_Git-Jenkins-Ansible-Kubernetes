@@ -1,11 +1,9 @@
-# DevOps Project using Git,Jenkins,Maven,Ansible,Docker & Kubernetes.
+![Deploying on Kubernetes](https://github.com/vashanth-sri/CICD_with_Git-Jenkins-Ansible-Kubernetes/assets/121790761/eddde075-4aba-4c30-b72d-21b8624b8a19)# DevOps Project using Git, Jenkins, Maven, Ansible, Docker & Kubernetes.
 
-[![Image]
+[![Image]![Uploading Deploying on Kubernetes.png…]()
 
-This Repository is a collection of Implementation documents. 
 
-### Purpose:
-By following this repository you can able to setup a DevOps CI/CD Pipeline using
+By following this repository you can able to set up a DevOps CI/CD Pipeline using
 - git
 - Jenkins
 - Maven
