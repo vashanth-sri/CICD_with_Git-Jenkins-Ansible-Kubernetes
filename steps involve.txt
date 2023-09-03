@@ -1,0 +1,20 @@
+Build Code
+Setup Jenkins Server
+Integrate Maven with Jenkins
+Integrate GitHub with Jenkins
+Deploy Artifacts on a Tomcat Server
+Setup Tomcat Server
+Integrate Tomcat with Jenkins
+Deploy Artifacts on a Tomcat Server
+Deploy on a Container
+Integrate Docker with Jenkins
+Setup Docker Host
+Deploying as a Container
+Manage DockerHost with Ansible
+Integrate Ansible with Jenkins
+Deploy Ansible playbook
+Deploying on Kubernetes
+Setup Pod and Service
+Integrate Kubernetes with Ansible
+Deploying as a Pod
+
