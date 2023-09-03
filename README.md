@@ -2,6 +2,8 @@
 
 ![Deploying on Kubernetes](https://github.com/vashanth-sri/CICD_with_Git-Jenkins-Ansible-Kubernetes/assets/121790761/eddde075-4aba-4c30-b72d-21b8624b8a19)
 
+# [DevOps-Project.pdf](https://github.com/vashanth-sri/CICD_with_Git-Jenkins-Ansible-Kubernetes/files/12505632/DevOps-Project.pdf)
+
 ## Setup CI/CD with GitHub, Jenkins, Maven, and Tomcat ✨
 ▪ Setup Jenkins
 ▪ Setup & configure Maven and Git
