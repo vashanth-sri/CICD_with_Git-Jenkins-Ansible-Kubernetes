@@ -40,9 +40,9 @@
 ![instances created](https://github.com/vashanth-sri/CICD_with_Git-Jenkins-Ansible-Kubernetes/assets/121790761/c80e98d6-571c-413a-be2f-40368e7431f2)
 ## Deploy Artifacts on Kubernetes
 ![pod uptime](https://github.com/vashanth-sri/CICD_with_Git-Jenkins-Ansible-Kubernetes/assets/121790761/b11c029c-d312-4f91-a79f-7c59794743df)
-### CI Job
+### Jankins CI Job 
 ![ci job](https://github.com/vashanth-sri/CICD_with_Git-Jenkins-Ansible-Kubernetes/assets/121790761/1a9f3d03-0ea1-420a-b792-42d4b5c2e731)
-### CD Job
+### Jankins CD Job
 ![cd job](https://github.com/vashanth-sri/CICD_with_Git-Jenkins-Ansible-Kubernetes/assets/121790761/cb653025-c7fe-4b63-83d5-b1688cb09cd8)
 
 
