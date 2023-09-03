@@ -33,7 +33,7 @@
 ### Step-19:Deploying as a Pod
 
 ## Deploy Artifacts on a Tomcat Server
-![final webpage](https://github.com/vashanth-sri/CICD_with_Git-Jenkins-Ansible-Kubernetes/assets/121790761/f02fd1e5-7d5b-4682-93fb-64a4d06b18a5)
+![final webpage](https://github.com/vashanth-sri/CICD_with_Git-Jenkins-Ansible-Kubernetes/assets/121790761/b9318435-2500-4ecd-a585-5db4f80843c7)
 ## Deploy on a Container
 ![docker latest push](https://github.com/vashanth-sri/CICD_with_Git-Jenkins-Ansible-Kubernetes/assets/121790761/dd3aecfd-ae6c-47e9-8aaf-b1829fe8fd47)
 ## Using AWS to Create Instances EKS
