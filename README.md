@@ -1,5 +1,5 @@
 # DevOps Project using Git, Jenkins, Maven, Ansible, Docker & Kubernetes.
-
+![DevOps Project](https://github.com/vashanth-sri/CICD_with_Git-Jenkins-Ansible-Kubernetes/assets/121790761/d8460db6-3bd4-4f31-a3e1-5ebf3de4addc)
 
 # DevOps Project Procedure - CI/CD with Git Jenkins Ansible Kubernetes 
 [DevOps-Project.pdf](https://github.com/vashanth-sri/CICD_with_Git-Jenkins-Ansible-Kubernetes/files/12536075/DevOps-Project.pdf)
@@ -50,6 +50,8 @@
 ### Jankins CD Job
 ![cd job](https://github.com/vashanth-sri/CICD_with_Git-Jenkins-Ansible-Kubernetes/assets/121790761/3a47ecc5-b709-4b7e-b0a9-08ad3d55db9e)
 
+## Ansible Playbook CI/CD
+![ansible playbook for CI and push CD job](https://github.com/vashanth-sri/CICD_with_Git-Jenkins-Ansible-Kubernetes/assets/121790761/168f558f-0913-4f74-a90a-e0c315369f09)
 
 
 
