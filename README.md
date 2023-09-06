@@ -1,8 +1,8 @@
 # DevOps Project using Git, Jenkins, Maven, Ansible, Docker & Kubernetes.
 
-![Deploying on Kubernetes](https://github.com/vashanth-sri/CICD_with_Git-Jenkins-Ansible-Kubernetes/assets/121790761/eddde075-4aba-4c30-b72d-21b8624b8a19)
+
 # DevOps Project Procedure - CI/CD with Git Jenkins Ansible Kubernetes 
-[DevOps-Project.pdf](https://github.com/vashanth-sri/CICD_with_Git-Jenkins-Ansible-Kubernetes/files/12505632/DevOps-Project.pdf)
+[DevOps-Project.pdf](https://github.com/vashanth-sri/CICD_with_Git-Jenkins-Ansible-Kubernetes/files/12536075/DevOps-Project.pdf)
 
 ## Setup CI/CD with GitHub, Jenkins, Maven, and Tomcat ✨
 ▪ Setup Jenkins
@@ -33,17 +33,24 @@
 ### Step-19:Deploying as a Pod
 
 ## Deploy Artifacts on a Tomcat Server
-![final webpage](https://github.com/vashanth-sri/CICD_with_Git-Jenkins-Ansible-Kubernetes/assets/121790761/b9318435-2500-4ecd-a585-5db4f80843c7)
+![final webpage](https://github.com/vashanth-sri/CICD_with_Git-Jenkins-Ansible-Kubernetes/assets/121790761/32ae06a8-69b1-4134-988c-2f60acfb058e)
+
 ## Deploy on a Container in Dockerhub
-![docker latest push](https://github.com/vashanth-sri/CICD_with_Git-Jenkins-Ansible-Kubernetes/assets/121790761/dd3aecfd-ae6c-47e9-8aaf-b1829fe8fd47)
+  ![docker latest push](https://github.com/vashanth-sri/CICD_with_Git-Jenkins-Ansible-Kubernetes/assets/121790761/b50032aa-926d-443c-898d-38b99fa181a4)
+
 ## Using AWS to Create Instances EKS
-![instances created](https://github.com/vashanth-sri/CICD_with_Git-Jenkins-Ansible-Kubernetes/assets/121790761/c80e98d6-571c-413a-be2f-40368e7431f2)
+![instances created](https://github.com/vashanth-sri/CICD_with_Git-Jenkins-Ansible-Kubernetes/assets/121790761/ff56733c-facd-4a1b-bdb7-2afdb726dbfc)
+
 ## Deploy Artifacts on Kubernetes
-![pod uptime](https://github.com/vashanth-sri/CICD_with_Git-Jenkins-Ansible-Kubernetes/assets/121790761/b11c029c-d312-4f91-a79f-7c59794743df)
+![pod uptime](https://github.com/vashanth-sri/CICD_with_Git-Jenkins-Ansible-Kubernetes/assets/121790761/e23f940c-bffb-40f6-bb63-4cc80aebd242)
+
 ### Jankins CI Job 
-![ci job](https://github.com/vashanth-sri/CICD_with_Git-Jenkins-Ansible-Kubernetes/assets/121790761/1a9f3d03-0ea1-420a-b792-42d4b5c2e731)
+![ci job](https://github.com/vashanth-sri/CICD_with_Git-Jenkins-Ansible-Kubernetes/assets/121790761/1fa54594-4332-4027-b019-d2e7f57af807)
+
 ### Jankins CD Job
-![cd job](https://github.com/vashanth-sri/CICD_with_Git-Jenkins-Ansible-Kubernetes/assets/121790761/cb653025-c7fe-4b63-83d5-b1688cb09cd8)
+![cd job](https://github.com/vashanth-sri/CICD_with_Git-Jenkins-Ansible-Kubernetes/assets/121790761/3a47ecc5-b709-4b7e-b0a9-08ad3d55db9e)
+
+
 
 
 
